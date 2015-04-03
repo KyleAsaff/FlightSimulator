@@ -5,7 +5,7 @@ OpenGL Flight Simulator. Control a plane and fly around terrain and ocean using 
 - Basic scenery
 - Twin Engine Plane
 - Mouse and keyboard controls to control the plane and toggle the scenery
-- Makes use of openGL's lighting model using directional light
+- Makes use of OpenGL's lighting model using directional light
 - Sea, sky, and mountain texture mapping
 - Randomly generates mountains and islands using a mid-point displacement algorithm
 
