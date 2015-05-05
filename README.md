@@ -1,5 +1,5 @@
 # FlightSimulator
-OpenGL Flight Simulator. Control a plane and fly around terrain and ocean using keyboard and mouse control.
+OpenGL Flight Simulator. Control a plane and fly around terrain and ocean using a mouse and keyboard.
 
 # Features
 - Basic scenery
