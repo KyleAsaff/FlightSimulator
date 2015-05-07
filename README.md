@@ -1,5 +1,5 @@
 # FlightSimulator
-OpenGL Flight Simulator. 
+FlightSimulator is an OpenGL Flight Simulator written in C. 
 
 Control a plane and fly around terrain and ocean using a mouse and keyboard.
 
