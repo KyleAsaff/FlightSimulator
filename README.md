@@ -13,19 +13,19 @@ Control a plane and fly around terrain and ocean using a mouse and keyboard.
 - Randomly generates mountains and islands using a mid-point displacement algorithm.
 
 # Controls
-Scenery Controls
-- f: toggle full screen
-- b: toggle fog
-- m: toggle mountains
-- t: toggle mountain texture
-- s: toggle sea and sky
-- w: toggle wireframes
-- q: quit
+Scenery Controls.
+- f: toggle full screen.
+- b: toggle fog.
+- m: toggle mountains.
+- t: toggle mountain texture.
+- s: toggle sea and sky.
+- w: toggle wireframes.
+- q: quit.
 
 Plane Controls
-- Mouse: steer left or right
-- Up Arrow: move up
-- Down Arrow: move down
-- PAGE UP: Speed up
-- PAGE DOWN: slow down
-- z: Barrel roll
+- Mouse: steer left or right.
+- Up Arrow: move up.
+- Down Arrow: move down.
+- PAGE UP: Speed up.
+- PAGE DOWN: slow down.
+- z: Barrel roll.
