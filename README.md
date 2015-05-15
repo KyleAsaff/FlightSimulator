@@ -5,12 +5,12 @@ FlightSimulator is an OpenGL Flight Simulator written in C.
 Control a plane and fly around terrain and ocean using a mouse and keyboard.
 
 # Features
-- Basic scenery
-- Twin Engine Plane
-- Mouse and keyboard controls to control the plane and toggle the scenery
-- Makes use of OpenGL's lighting model using directional light
-- Sea, sky, and mountain texture mapping
-- Randomly generates mountains and islands using a mid-point displacement algorithm
+- Basic scenery.
+- Twin Engine Plane.
+- Mouse and keyboard controls to control the plane and toggle the scenery.
+- Makes use of OpenGL's lighting model using directional light.
+- Sea, sky, and mountain texture mapping.
+- Randomly generates mountains and islands using a mid-point displacement algorithm.
 
 # Controls
 Scenery Controls.
