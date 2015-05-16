@@ -13,7 +13,7 @@ Control a plane and fly around terrain and ocean using a mouse and keyboard.
 - Randomly generates mountains and islands using a mid-point displacement algorithm.
 
 # Controls
-Scenery Controls.
+Scenery Controls
 - f: toggle full screen
 - b: toggle fog
 - m: toggle mountains
